@@ -22,7 +22,7 @@ type Post = {
     tags?: string[];
   };
 };
-
+// comentario
 const filteredPosts = posts.filter((post:Post) => post.frontmatter.tags?.includes(tag));
 ---
 <BaseLayout pageTitle={tag}>
