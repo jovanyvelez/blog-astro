@@ -7,7 +7,7 @@ author: 'Alumno de Astro'
 image:
     url: "https://docs.astro.build/assets/arc.webp"
     alt: "Miniatura de los arcos de Astro."
-tags: ["astro", "bloguear", "aprender en público"]
+tags: ["astro", "bloguear", "aprender en público", "éxitos", "contratiempos", "comunidad"]
 ---
 
 
